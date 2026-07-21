@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planet Sequence</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Sequence of Planets</h1>
+
+    <p class="instructions">
+        Click the planets in the correct order:
+        Mercury → Venus → Earth → Mars → Jupiter
+    </p>
+
+    <button id="startBtn">Start Mission</button>
+
+    <h2 id="status">
+        Click "Start Mission" to begin.
+    </h2>
+
+    <p id="progress">
+        Progress: 0 / 5
+    </p>
+
+    <div id="gameBoard">
+
+        <button class="planet" data-order="1">
+            Mercury
+        </button>
+
+        <button class="planet" data-order="2">
+            Venus
+        </button>
+
+        <button class="planet" data-order="3">
+            Earth
+        </button>
+
+        <button class="planet" data-order="4">
+            Mars
+        </button>
+
+        <button class="planet" data-order="5">
+            Jupiter
+        </button>
+
+    </div>
+
+    <button id="restartBtn">
+        Restart Game
+    </button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
