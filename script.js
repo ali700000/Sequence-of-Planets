@@ -19,7 +19,7 @@ startBtn.addEventListener("click", function(){
 
     currentPlanet = 1;
 
-    status.textContent = "Mission Started! Click Mercury first.";
+    status.textContent = "Mission Started!";
 
     progress.textContent = "Progress: 0 / 5";
 
