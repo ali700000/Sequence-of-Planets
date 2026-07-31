@@ -45,10 +45,14 @@ The game controls will be vertical on mobile devices. The instructions, restart 
 The text will be smaller for mobile devices. The instructions and title of the game will have a smaller font size to make sure the screen is organized.
 
 ## User Testing
-Summarize the testing process and major findings.
+
+When players entered the game, they understood that the game involved clicking planets in the correct order. They understood the space theme of the game. The “start mission” button was in the middle of the screen and players could see it. The correct and incorrect messages helped players know if they clicked the right planet or not. Some players mentioned that instructions should be included in the beginning of the game so players know what the objective is. When the players were testing the game, they noticed a lot of things that were missing and things that weren’t working in the game. They noticed that they could click the planets before starting the game. They noticed that the game didn’t have a lot of visuals. Much of the gameplay worked, but there were some things that could have been added. Overall, the gameplay worked decently but there were a lot of things that were missing.
 
 ## Revisions
-Describe at least three meaningful revisions made after testing.
+
+Added a background image to make it feel like a space game.
+Added some instructions about how to finish the game.
+Made the layout of the game smaller for mobile devices.
 
 ## Technologies Used
 
